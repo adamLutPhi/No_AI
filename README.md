@@ -1,2 +1,2 @@
-# No_AI
-A Philosophic Repo
+# No AI
+A Philosophic Repo    (work in Progress) 
